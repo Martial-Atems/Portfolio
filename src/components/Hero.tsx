@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
           <div className="mb-8 relative">
             <div className="w-48 h-48 mx-auto rounded-full overflow-hidden border-4 border-blue-500/30 shadow-2xl transform hover:scale-105 transition-transform duration-300">
               <img 
-                src="public/photo_2025-06-23_12-25-05.jpg" 
+                src="photo_2025-06-23_12-25-05.jpg" 
                 alt="Atemena Martial"
                 className="w-full h-full object-cover"
               />
